@@ -1,0 +1,5 @@
+﻿  main.c
+F:\Study\2020-2\게임수학\게임수학_스네이크\snakegame\snakegame\main.c(87,6): warning C4101: 'time' :참조되지 않은 지역 변수입니다.
+F:\Study\2020-2\게임수학\게임수학_스네이크\snakegame\snakegame\main.c(369,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\Study\2020-2\게임수학\게임수학_스네이크\snakegame\snakegame\main.c(216): warning C4715: 'Count': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  snakegame.vcxproj -> F:\Study\2020-2\게임수학\게임수학_스네이크\snakegame\x64\Debug\snakegame.exe
